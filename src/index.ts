@@ -120,6 +120,8 @@ async function main(): Promise<void> {
       process.exit(0);
     }
 
+    config.helperToken = config.helperToken || process.env.HELPER_TOKEN || process.env.GH_HELPER_TOKEN;
+
     await engine.runHunt(config);
   } catch (err) {
     Logger.error('Fatal execution failure in GitTrophy Hunter Engine:', err);
