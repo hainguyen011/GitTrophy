@@ -1,0 +1,48 @@
+{
+  "name": "gittrophy",
+  "version": "1.0.0",
+  "description": "Autonomous GitHub Badge & Achievement Hunter Engine",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "gittrophy": "./bin/gittrophy.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js",
+    "hunt": "tsx src/index.ts",
+    "hunt:max": "tsx src/index.ts --max-all",
+    "hunt:gold": "tsx src/index.ts --shark-tier gold --pair-tier gold",
+    "hunt:pair": "tsx src/index.ts --badges pair --pair-tier gold",
+    "hunt:shark": "tsx src/index.ts --badges shark --shark-count 720 --keep",
+    "hunt:shark-apex": "tsx src/index.ts --badges shark --shark-count 1024 --keep",
+    "hunt:recon": "tsx src/index.ts recon",
+    "dev": "tsx watch src/index.ts"
+  },
+  "keywords": [
+    "github",
+    "trophy",
+    "badges",
+    "achievements",
+    "automation",
+    "pull-shark",
+    "quickdraw",
+    "galaxy-brain",
+    "yolo",
+    "pair-extraordinaire"
+  ],
+  "author": "hainguyen011 <https://github.com/hainguyen011>",
+  "contributors": [
+    "Hawl (VOD-HAC-9X0F2E) <hac@aevum.os>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hainguyen011/GitTrophy"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "typescript": "^5.7.2",
+    "tsx": "^4.19.2"
+  }
+}

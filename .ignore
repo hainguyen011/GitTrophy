@@ -1,0 +1,7 @@
+# Ignore from IDE search, indexing and ripgrep
+test_security/
+node_modules/
+dist/
+monster.json
+.aevum/
+.agents/
