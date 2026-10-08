@@ -15,22 +15,22 @@
 
 ---
 
-### ⚠️ [WARNING: OPERATIONAL DIRECTIVE & ETHICAL MANDATE]
+### ⚠️ [WARNING & FABLE: SỰ TÍCH CHÀNG CODER VÀ NÀNG TIÊN HỒ]
 
 <p align="center">
-  <img src="assets/hazard_warning.png" alt="GitTrophy Hazard Directive - Extreme Danger" width="100%" />
+  <img src="assets/gittrophy_fable_meme.png" alt="GitTrophy - The Golden Pull Shark Fable Meme" width="100%" />
 </p>
 
-> [!CAUTION]
-> ### 🛑 CLASSIFIED // EXTREME DANGER: RESTRICTED TELEMETRY EXPLOIT
-> **UNAUTHORIZED ACCESS & RECKLESS DISPATCH WILL TRIGGER IRREVERSIBLE MUTATIONS.**  
-> GitTrophy grants its operator absolute programmatic dominion over the GitHub Achievement Telemetry Subsystem. Wielding this tool without strict sandbox isolation can permanently alter state or trigger security countermeasures. Deploy strictly in quarantined environments.
-
-> *"With great power comes great responsibility."*
->
-> GitTrophy grants its operator absolute programmatic dominion over the GitHub Achievement Telemetry Subsystem. It orchestrates high-velocity event mutations, synthesizes pull request lifecycles, and manipulates GraphQL state trees in constant time.
->
-> Such capability is not a trivial plaything. It is a razor-sharp scalpel designed to demonstrate the inherent determinism of API-driven reward structures. **Wield it with calculated restraint, respect platform equilibrium, and never deploy it against production repositories or foreign infrastructure.** You alone bear the weight of the actions executed under your authorization token.
+> [!WARNING]
+> ### 🪓 "NÀY ANH CODER TRUNG THỰC, ĐÂY CÓ PHẢI LÀ HUY HIỆU CỦA ANH?"
+> *Ngày xửa ngày xưa, có một anh nông dân coder vô tình đánh rơi một file script `GitTrophy` khiêm tốn xuống lòng hồ...*  
+> *Bỗng nhiên, nàng tiên hồ rạng ngời nổi lên từ làn nước lấp lánh và ân cần hỏi:*  
+> *— "Này chàng coder trung thực, chú cá mập vàng **Pull Shark Gold**, bộ não bạc **Galaxy Brain**, hay tia sét **Quickdraw** này có phải của anh không?"*  
+>  
+> *— "NANI?! GOLDEN PULL SHARK?! WHAAA?!"*  
+>  
+> > *"With great power comes great responsibility."*  
+> > GitTrophy trao cho bạn toàn quyền điều phối telemetry danh hiệu của GitHub chỉ trong tích tắc. Một gia tài huy hiệu vàng bạc có thể thuộc về bạn, nhưng hãy sử dụng nó có trách nhiệm, giữ gìn sự cân bằng của nền tảng và **tuyệt đối chỉ chạy trong Sandbox cách ly**!
 
 ---
 
